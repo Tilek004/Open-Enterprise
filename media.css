@@ -1,0 +1,94 @@
+@media(max-width:425px){
+    .banner button{
+        margin-left: 80px;
+   
+    }
+.banner h1{
+    width: 400px;
+   
+     }
+ .banner p{
+ flex-direction: column-reverse;
+ margin: left -50px; ;} 
+ .members__left{
+    width: 400px;
+    padding-right: 100px;
+  }
+ .members__left img{
+    margin-left: 90px;
+ }
+ .members__lefth3{
+    margin-left: 35px;
+ }
+ .conteiners{
+    flex-direction: column;
+  }
+ .jassir__left{
+    width: 425px;
+    margin-left: -20px;
+ }
+ .conteiner{
+    padding: 0;
+ }
+ .category{
+    flex-direction: column;
+    margin-left: -90px;
+ }
+ .jassir__right{
+    width: 400px;
+    margin-bottom: 200px;
+    margin-top: 30px;
+ }
+ .jassir__left button{
+    margin-left: 6px;
+ }
+ .engage{
+    flex-direction: column;
+ }
+ .engage__left{
+    margin-left: 1px;
+    width: 400px;
+    margin-bottom: 150px;
+ }
+ .task-container{
+    width: 400px;
+ }
+ .categorys{
+    flex-direction: column;
+    margin-left: -20px;
+ }
+ .categorys__card{
+    margin-bottom: 40px;
+ }
+ .start__left h2{
+    margin-left: 100px;
+ }
+ .start__left p{
+    margin-left: 100px;
+    margin-top: -25px;
+ }
+ .members__right{
+    margin-left: -900px;
+    margin-top: 600px;
+ }
+ .main__button{
+    margin-left: 150px;
+ }
+ .help h2{
+    font-size: 37px;
+ }
+ .help{
+    margin-left: 10px;
+    width: 400px;
+    height: 270px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+ }
+ .help p{
+    font-size: 13px;
+ }
+ .open__right{
+    width: 115px;
+    margin-right: 100px;
+ }
+}
