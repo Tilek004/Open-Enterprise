@@ -29,6 +29,10 @@
  }
  .conteiner{
     padding: 0;
+  
+ }
+ .conteiner h1{
+   margin-bottom: 60px;
  }
  .category{
     flex-direction: column;
@@ -60,6 +64,9 @@
  .categorys__card{
     margin-bottom: 40px;
  }
+ .start{
+   margin-left: -100px;
+ }
  .start__left h2{
     margin-left: 100px;
  }
@@ -90,5 +97,11 @@
  .open__right{
     width: 115px;
     margin-right: 100px;
+    flex-direction: column;
+    margin-right: 1000px;
+    gap: -5px;
+ }
+ .header__right ul{
+   flex-direction: column;
  }
 }

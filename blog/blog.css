@@ -16,6 +16,10 @@
     max-width: 1440px;
     margin: 0 auto;
 }
+.conteiner p{
+    margin-top: 50px;
+
+}
 .header.conteiner{
     display: flex;
     justify-content: space-between;
@@ -114,4 +118,11 @@ font-weight: 700;
 margin-top: 100px;
 margin-left: 750px;
 color: white;
+}
+.start__left{
+    margin-left: 30px;
+    margin-left: unset;
+}
+.open__right{
+    
 }
